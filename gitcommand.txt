@@ -1,0 +1,6 @@
+git init
+git config --global user.name "username"
+git config --global user.email "vinodpythondev2022@gmail.com"
+git commit -m "firstcommit"
+git branch -m main
+git remote add origin "url"
