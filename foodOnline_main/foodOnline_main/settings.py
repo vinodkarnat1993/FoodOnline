@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'accounts'
 ]
+"karnati vinod"
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
